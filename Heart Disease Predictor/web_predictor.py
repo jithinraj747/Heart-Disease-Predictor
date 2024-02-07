@@ -2,8 +2,7 @@ import numpy as np
 import pickle
 import streamlit as st
 
-load_model = pickle.load(open('/home/bandicoot4218/Desktop/eda/5. Machine Learning/ML Project/Heart Disease Predictor/heart_disease_pred.sav', 'rb'))
-
+load_model = pickle.load(open('Heart Disease Predictor/heart_disease_pred.sav', 'rb'))
 
 def heart_disease_prediction(test_input):
     test_input = np.asarray(test_input,dtype='float32')
