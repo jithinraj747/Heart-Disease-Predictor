@@ -2,7 +2,8 @@ import numpy as np
 import pickle
 import streamlit as st
 
-# add full file path to the saved model or else streamlit will not recognise it 
+# streamlit recognizes only absolute file paths. Here, relative paths are used for representation. Please change it.
+
 load_model = pickle.load(open('heart_disease_pred.sav', 'rb'))
 
 def heart_disease_prediction(test_input):
