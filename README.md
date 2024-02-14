@@ -19,3 +19,7 @@ A binary classification ensemble model was build for predicting the potential de
 Download the Heart Disease Predictor directory containing the web-predictor.py and heart_disease_pred.sav model. Run the following command with the absolute path location of the web_predictor.py file within quotes:  
 
                               streamlit run '../Heart Disease Predictor/web_predictor.py'
+
+The page contains a form that collects the details of the patient that is needed for the model in the background to process the prediction. 
+
+![image](https://github.com/jithinraj747/Heart-Disease-Predictor/assets/106642456/a3c9601f-fc4c-41ac-a881-756499ace237)
