@@ -22,4 +22,9 @@ Download the Heart Disease Predictor directory containing the web-predictor.py a
 
 The page contains a form that collects the details of the patient that is needed for the model in the background to process the prediction. 
 
-![image](https://github.com/jithinraj747/Heart-Disease-Predictor/assets/106642456/a3c9601f-fc4c-41ac-a881-756499ace237)
+![image](https://github.com/jithinraj747/Heart-Disease-Predictor/assets/106642456/f7132613-a970-4ab0-a7bc-496f083aae3f)
+
+![image](https://github.com/jithinraj747/Heart-Disease-Predictor/assets/106642456/c440a860-6c23-460b-a5c1-ad046a629486)
+
+
+
